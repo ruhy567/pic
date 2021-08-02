@@ -1,0 +1,83 @@
+body{
+    
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+font-size: 50px;
+}
+.huhu{
+    color: tomato
+}
+.urt{
+    color: crimson;
+}
+.ty{
+    color: rgb(139, 9, 0);
+}
+#we{
+    color: darkorange;
+}
+.RU{
+    font-size: x-large;
+    color: firebrick;
+}
+
+
+.half-width{
+  
+float:left  ;
+   width: 40%;
+    margin: 5%;
+ padding left:7%;
+ 
+}
+.half-width img{
+            width: 50%; 
+           
+}
+#as{
+    font-size: 30px;
+    color: lightcoral;
+}
+.top{
+    border: 5x solid  cadetblue;  
+    background-image: url("biography-bg.png");
+    background-position: bottom;
+   
+  
+}
+section{
+    height: 500px;
+    padding-bottom:150 px;
+}
+.half-width img{
+    width: 50%;
+   
+}
+.rw{
+    width: 40%;
+    float: right;
+    padding-right: 3%;  
+}
+.gh{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.kj{
+   box-shadow: 10px 10px 10px grey ;
+   margin-left: 5%;
+   height: 50%;
+   text-align: center;
+   background-color: white;
+}
+.key{
+    
+    background-image: url("exp-bg.png");
+   background-repeat: no-repeat;
+  background-position: right
+
+}
+footer p{
+    text-align: center;
+}
